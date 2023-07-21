@@ -1,7 +1,7 @@
 <div>
     <div align=center>
         <!-- <img src="https://raw.githubusercontent.com/sheriff-rango/sheriff-rango/main/Photo.png" alt="MASTER SHIFU" height="200"> -->
-        <img src="https://raw.githubusercontent.com/masterOogway-me/masterOogway-me/Avatar.jpg" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/masterOogway-me/masterOogway-me/avatar.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
         <!-- <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> -->
     </div>
     <div align=center>
