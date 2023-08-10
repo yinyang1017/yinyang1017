@@ -1,7 +1,7 @@
 <div>
     <div align=center>
         <!-- <img src="https://raw.githubusercontent.com/sheriff-rango/sheriff-rango/main/Photo.png" alt="MASTER SHIFU" height="200"> -->
-        <img src="https://raw.githubusercontent.com/masterOogway-me/masterOogway-me/avatar.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+        <img src="https://raw.githubusercontent.com/yinyangwarrior/yinyangwarrior/avatar.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
         <!-- <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200"> -->
     </div>
     <div align=center>
@@ -53,17 +53,17 @@
     </div>
     <div align=center>
         <h1>Github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masterOogway-me&langs_count=10&bg_color=30,DD4814,7432FF&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=masterOogway-me&title_color=6FDA44&bg_color=30,DD4814,7432FF&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yinyangwarrior&langs_count=10&bg_color=30,DD4814,7432FF&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
+        <img src="https://github-readme-stats.vercel.app/api?username=yinyangwarrior&title_color=6FDA44&bg_color=30,DD4814,7432FF&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedfathydev&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
         <br>
         -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?masterOogway-me&theme=jolly&background=7432FF&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?yinyangwarrior&theme=jolly&background=7432FF&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?masterOogway-me&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo&theme=nord">
+        <img src="https://github-profile-trophy.vercel.app/?yinyangwarrior&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo&theme=nord">
         <br>
         <br>
     </div>
